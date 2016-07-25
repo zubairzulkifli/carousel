@@ -1,0 +1,13 @@
+font.ttf:
+    Ubuntu-medium 
+    https://www.google.com/fonts/specimen/Ubuntu
+
+000?.jpg / 000?-thumb.jpg
+    O'Reilly book covers of book you might find
+    interesting.
+
+background.jpg:
+    https://pixabay.com/en/background-polygon-purple-violet-1409025/
+
+node.lua
+    BSD 2 clause
