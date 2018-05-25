@@ -1,5 +1,10 @@
 {
-    "name": "Modules",
-    "author": "fw@info-beamer.com",
-    "desc": "Shows twitter/images/media in a loop"
+    "name": "wikicloud",
+    "author": "Florian Wesch <fw@info-beamer.com>",
+    "desc": "Play an internet stream. Experimental",
+    "repository": "https://github.com/info-beamer/package-stream-test",
+    "lifecycle": "beta",
+    "runtime": {
+        "outside_sources": true
+    }
 }
